@@ -1,0 +1,17 @@
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Jwell.Module.Configure.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Jwell.Module.Configure.pdb
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Autofac.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Jwell.Framework.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Newtonsoft.Json.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\System.Web.Mvc.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Castle.Core.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Jwell.Framework.pdb
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Autofac.xml
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\System.Web.Mvc.xml
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\Castle.Core.xml
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\obj\Debug\Jwell.Module.Configure.csproj.CoreCompileInputs.cache
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\obj\Debug\Jwell.Module.Configure.csproj.CopyComplete
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\obj\Debug\Jwell.Module.Configure.dll
+E:\Project\Jwell.Framework\Jwell.Sample\Jwell.Module.Configure\obj\Debug\Jwell.Module.Configure.pdb

@@ -1,0 +1,6 @@
+﻿{
+  "sign": "Jwell.Schedule",
+  "version": "1.0.0.0",
+  "number": "3C14AD2C0EBE47FF96F905A68D0DEB3E",
+  "environment": "test" //test,qa,gray,product
+}
